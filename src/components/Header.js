@@ -6,6 +6,7 @@ const Header = () => {
       
 
      const cartItems= useSelector((store)=>store.cart.items);
+     const aman= 15000;
 
   return (
     <div>
